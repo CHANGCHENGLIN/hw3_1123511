@@ -1,6 +1,6 @@
-// Oliver Lin 林章正
-// 11235111
-// 2024.12.12
+//Oliver Lin 林章正
+//11235111
+//2024.12.12
 
 #include <iostream>
 #include <vector>
